@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @learnerDhananjoy
 - 👀 I’m interested in programming language like python,c,java
-- 🌱 I’m currently learning python as well as html,css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript as well as html,css
+- 💞️ I’m looking to collaborate on working with multiple people in multiple projects to learn and getting rid of nervousness.
 - 📫 How to reach me ...
 
 <!---
